@@ -1,46 +1,44 @@
 <template>
+<main>
   <div class="container">
+    <h2>Jeff Lima</h2>
     <div>
-      <Logo />
-      <h1 class="title">
-        jefflima
-      </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
+    <p>Actor • Producer • Entrepenur</p>
     </div>
   </div>
+  </main>
 </template>
 
 <script>
 export default {}
 </script>
 
-<style>
+<style lang=scss scoped>
+main {
+  font-size: 16px;
+  background: url('@/assets/img/centerImage.png');
+  background-size:cover;
+  @apply bg-center md:bg-left;
+
+}
 .container {
+  @apply text-center pt-20;
   margin: 0 auto;
   min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
 
+
+  @media screen and (min-width: 768px){
+    @apply text-left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+h2 {
+  @apply text-5xl text-green-800;
+}
 .title {
   font-family:
     'Quicksand',

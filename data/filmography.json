@@ -1,0 +1,93 @@
+{
+ "quote": "Everyone has a passion in life, I just so happened to turn mine into my career path. Filming gives me a rush that I’ve never experienced with anything else.",
+ "shows": [
+   {
+     "order":1,
+     "id": "1",
+     "title":"Bushwick",
+     "image":"bushwick.jpg",
+     "role":"principal",
+     "content":"When Lucy steps off the subway, she walks into an utter bloodbath on the streets of Brooklyn’s Bushwick neighborhood. Texas is attempting to secede from the Union, and militia forces have descended upon New York City to claim it as an East Coast base of operations and negotiation tool. Lucy takes shelter in Stupe’s basement, a burly war veteran who reluctantly agrees to help her traverse the treacherous five-block stretch to reach her destination"
+   },
+   {
+     "order":2,
+     "id": "12",
+     "title":"Eugenia & John",
+     "image":"eugina_and_john.jpg",
+     "role":"principal",
+     "content":"A young couple are figuring out love and loyalty as they organize a rally in support of immigrant rights."
+   },
+   {
+     "order":3,
+     "id": "13",
+     "title":"Baked In Brooklyn",
+     "image":"baked_in_brooklyn.jpg",
+     "role":"principal",
+     "content":"A college graduate selling marijuana realizes he is in way over his head."
+   },
+   {
+     "order":4,
+     "id": "14",
+     "title":"Stealing Cars",
+     "image":"stealing_cars.jpg",
+     "role":"supporting",
+     "content":"A rebellious teenager navigates his way through the juvenile court system and into a correctional camp for troubled boys."
+   },
+   {
+     "order":5,
+     "id": "15",
+     "title":"Affluenza",
+     "image":"affluenza.jpg",
+     "role":"principal",
+     "content":"Swept up in a heady pre-Recession world of absentee parents, plentiful booze and casual sex, an aspiring photographer (Ben Rosenfield) escapes his middle-class life for the moneyed mansions of the young and beautiful elite."
+   },
+   {
+     "order":6,
+     "id": "16",
+     "title":"La Vida Inesperada",
+     "image":"la_vida_inesperada.jpg",
+     "role":"principal",
+     "content":"The visit of a successful cousin forces a failed actor (Javier Cámara) to tell the truth about his lack of accomplishments."
+   },
+   {
+     "order":7,
+     "id": "17",
+     "title":"Jack, Jules, Esther & Me",
+     "image":"jack_jules_esther_and_me.jpg",
+     "role":"supporting",
+     "content":"Lou is forced to improvise when his plot to win the heart of his congress-running mate falls apart."
+   },
+   {
+     "order":8,
+     "id": "18",
+     "title":"Mr. Popper’s Penguen’s",
+     "image":"mr_poppers_penguines.jpg",
+     "role":"player",
+     "content":"Mr. Popper (Jim Carrey) is a successful real estate developer in Manhattan. He lives in a posh apartment on Park Avenue, and is on the fast track to a partnership in a prestigious company. However, his life changes radically when he receives a final gift from his late father — a live penguin, which is soon joined by five more penguins. The birds’ antics soon win over Mr. Popper, and as he bonds with the penguins, his chilly relationship with his ex-wife (Carla Gugino) and kids begins to thaw."
+   },
+   {
+     "order":9,
+     "id": "19",
+     "title":"Gun Hill Road",
+     "image":"gun_hill_road.jpg",
+     "role":"day-player",
+     "content":"After a three-year stint in prison, an ex-con returns home and tries to put his family back together, but his son’s sexual transformation puts their fragile bonds to the test."
+   },
+   {
+     "order":10,
+     "id": "20",
+     "title":"Cop Out",
+     "image":"cop_out.jpg",
+     "role":"day-player",
+     "content":"Veteran detective Jimmy Monroe (Bruce Willis) needs money to pay for his daughter’s upcoming wedding, so he decides it’s time to sell his prized ’52 Pafko baseball card. Before he can turn it into cash, it’s stolen, and Jimmy and his partner, Paul (Tracy Morgan), confront a gangster who is obsessed with sports memorabilia. First, Jimmy and Paul have to rescue a beautiful murder-witness who has the key to a fortune in offshore bank accounts."
+   },
+   {
+     "order":11,
+     "id": "21",
+     "title":"Half Nelson",
+     "image":"half_nelson.jpg",
+     "role":"supporting",
+     "content":"Dan Dunne (Ryan Gosling) is a history teacher at a Brooklyn school. Though well-liked by his students and colleagues, he secretly spends his evenings hopping bars and getting high. A female student named Drey (Shareeka Epps) catches him in a drug-induced haze after a basketball game, and the two strike up an unlikely friendship. As Dan struggles with his addiction, he tries to act as a mentor to the girl, whose brother is serving time for dealing drugs."
+   }
+ ]
+}

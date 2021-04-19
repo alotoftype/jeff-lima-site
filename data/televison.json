@@ -1,0 +1,62 @@
+{
+
+  "quote": "Our stories come from our lives and from the playwrights pen, the mind of the actor , the roles we create, the artistry of life itself and the quest for peace",
+  "shows": [
+    {
+      "id":"tv-1",
+      "title": "Chicago Fire",
+      "image": "chicago_fire.jpg",
+      "role": "recuring",
+      "content":"As the firefighters, rescue squad and paramedics of Chicago Firehouse 51 forge headfirst into danger, the choices they make can mean the difference between life and death. But from the relentless pressure of saving lives, an extended family is forged. Led by Chief Wallace Boden, Matthew Casey, Kelly Severide, and the others know — when it’s go time, Firehouse 51 lays it all on the line for each other. This high-octane drama from Executive Producer Dick Wolf offers an edge-of-your-seat view into the lives of everyday heroes committed to one of America’s noblest professions."
+    },
+    {
+      "id":"tv-2",
+      "title":"The Boby Brown Story",
+      "image":"the_bobby_brown_story.jpg",
+      "role":"guest star",
+      "content":"From the team that produced the critically acclaimed “The New Edition Story,” the top cable biopic of all time, comes the four-hour miniseries “The Bobby Brown Story.” It picks up where its predecessor left off, delving into the stellar rise, near demise, and redemption of the founding member of the R&B supergroup New Edition. Brown’s life epitomizes the meaning of sex, drugs, and rock ‘n’ roll. His hits may have kept him at the top of the charts, but his antics kept his name in the headlines. Woody McClain reprises his role as Bobby Brown, painting a picture of the young performer’s struggles with stardom as a solo artist."
+    },
+    {
+      "id":"tv-3",
+      "title":"Docket 32357",
+      "image":"docket_32357.jpg",
+      "role":"regular",
+      "content":"A grieving mother and an estranged wife learn something devastating in a courtroom."
+    },
+    {
+      "id":"tv-4",
+      "title":"The Get Down",
+      "image":"the_get_down.jpg",
+      "role":"guest-star",
+      "content":"The multi-talented Baz Luhrmann and a team of collaborators — Oscar-winner Catherine Martin, legendary MC Nas, Grandmaster Flash, Pulitzer-winning playwright Stephen Adly Guirgis, and hip-hop historian Nelson George — have created a music-driven drama that documents the emergence of a new art form. Set in the late 1970s, when New York was at the brink of bankruptcy and disco was dying out, the rise of hip-hop is told through the lives, art, music and dance of a group of young people in the South Bronx."
+    },
+    {
+      "id":"tv-5",
+      "title":"Show Me a Hero",
+      "image":"show_me_a_hero.jpg",
+      "role":"regular",
+      "content":"Yonkers Mayor Nick Wasicsko takes office in 1987 and has to deal with the serious subject of the building of public housing in the white, middle class side of the town."
+    },
+    {
+      "id":"tv-6",
+      "title":"Taxi Brooklyn",
+      "image":"taxi_brooklyn.jpg",
+      "role":"guest-star",
+      "content":"While on foot patrol as punishment for reckless driving, disobeying orders and personality conflicts, NYPD Detective Caitlyn “Cat” Sullivan meets cabdriver Leo Romba, a French African from Marseille. When she realizes he lied on his immigration forms, Cat decides to take advantage of the situation and offers him a deal: She will help with his immigration problem if he will drive her around the city. More than just her chauffeur, Leo becomes Cat’s friend and consultant, helping her to solve cases and to uncover the mystery behind her father’s murder."
+    },
+    {
+      "id":"tv-7",
+      "title":"Blue Bloods",
+      "image":"blue_bloods.jpg",
+      "role":"guest-star",
+      "content":"Tom Selleck stars as Frank Reagan, the New York Police Commissioner, and patriarch of the Reagan clan, a multigenerational family of cops. Frank’s oldest son is Danny, a seasoned detective and Iraqi War veteran who occasionally uses dubious tactics to solve cases. Daughter Erin, the lone female, is an assistant district attorney. Fresh out of Harvard Law, Jamie is the youngest member and “golden boy” of the family. Jamie gave up a lucrative future in law to continue the family’s tradition in police work, and is asked to participate in a secretive investigation that even his father does not know about."
+    },
+    {
+      "id":"tv-8",
+      "title":"GuidingLight",
+      "image":"guiding_light.jpg",
+      "role":"guest-star",
+      "content":"The fictional Midwest town of Springfield provides the backdrop for this continuing rich tale. The Bauer, Spaulding, Lewis, Cooper and Santos families form the backbone of the community as Springfield’s residents face life and love amid the greatest of challenges."
+    }
+  ]
+}
