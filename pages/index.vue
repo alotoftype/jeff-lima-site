@@ -3,7 +3,7 @@
   <div class="container">
     <h2>Jeff Lima</h2>
     <div>
-    <p>Actor • Producer • Entrepenur</p>
+    <p>Actor • Producer • Entrepreneur</p>
     </div>
   </div>
   </main>

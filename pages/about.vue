@@ -41,9 +41,10 @@
   }
 }
   p {
-    padding: 0 2rem;
     line-height: 2;
-    width: 50%;
+    //width: 50%;
+    @apply md:w-2/4 px-6;
+
 
   }
 </style>
