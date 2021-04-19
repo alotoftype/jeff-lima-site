@@ -25,5 +25,7 @@
 </script>
 
 <style lang="scss" scoped>
-
+  .return {
+    color: red;
+  }
 </style>
